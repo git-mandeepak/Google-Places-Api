@@ -1,0 +1,8 @@
+c:\users\mandeepak\documents\visual studio 2015\Projects\GooglePlacesConsoleApp\GooglePlacesConsoleApp\bin\Debug\GooglePlacesConsoleApp.exe.config
+c:\users\mandeepak\documents\visual studio 2015\Projects\GooglePlacesConsoleApp\GooglePlacesConsoleApp\bin\Debug\GooglePlacesConsoleApp.exe
+c:\users\mandeepak\documents\visual studio 2015\Projects\GooglePlacesConsoleApp\GooglePlacesConsoleApp\bin\Debug\GooglePlacesConsoleApp.pdb
+c:\users\mandeepak\documents\visual studio 2015\Projects\GooglePlacesConsoleApp\GooglePlacesConsoleApp\bin\Debug\Newtonsoft.Json.dll
+c:\users\mandeepak\documents\visual studio 2015\Projects\GooglePlacesConsoleApp\GooglePlacesConsoleApp\bin\Debug\Newtonsoft.Json.xml
+c:\users\mandeepak\documents\visual studio 2015\Projects\GooglePlacesConsoleApp\GooglePlacesConsoleApp\obj\Debug\GooglePlacesConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\mandeepak\documents\visual studio 2015\Projects\GooglePlacesConsoleApp\GooglePlacesConsoleApp\obj\Debug\GooglePlacesConsoleApp.exe
+c:\users\mandeepak\documents\visual studio 2015\Projects\GooglePlacesConsoleApp\GooglePlacesConsoleApp\obj\Debug\GooglePlacesConsoleApp.pdb
